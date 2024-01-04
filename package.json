@@ -1,0 +1,18 @@
+{
+    "name": "@virtuallyunknown/nx-changelog-issue",
+    "author": "virtuallyunknown",
+    "private": true,
+    "type": "module",
+    "license": "MIT",
+    "devDependencies": {
+        "@nx/js": "^17.2.8",
+        "@types/node": "^20.10.6",
+        "@types/semver": "^7.5.6",
+        "enquirer": "^2.4.1",
+        "eslint": "^8.56.0",
+        "nx": "17.2.8",
+        "semver": "^7.5.4",
+        "tsx": "^4.7.0",
+        "typescript": "^5.3.3"
+    }
+}
